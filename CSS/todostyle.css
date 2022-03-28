@@ -1,0 +1,24 @@
+#todo-form {
+  display: flex;
+  justify-content: center;
+}
+
+#todo-form input {
+  padding: 5px 30px;
+  width: 200px;
+  border-radius: 5px;
+  border: 0px;
+}
+
+#todo-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 8px;
+}
+
+#todo-list span {
+  padding: 30px;
+  font-size: 20px;
+}
