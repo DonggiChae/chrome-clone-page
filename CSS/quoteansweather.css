@@ -11,7 +11,7 @@
 
 #quote span:first-child {
   font-size: 20px;
-  width: 50%;
+  width: 33%;
 }
 
 #quote span:last-child {
@@ -19,6 +19,5 @@
 }
 
 #weather {
-  text-align: right;
   font-size: 15px;
 }

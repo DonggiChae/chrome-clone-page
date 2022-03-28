@@ -1,0 +1,8 @@
+#clock {
+  margin: 90px 0px 30px auto;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 50px;
+}
