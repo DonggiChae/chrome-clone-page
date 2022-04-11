@@ -7,6 +7,7 @@
 
 #todo-form {
   display: flex;
+  margin-top: 25px;
   align-items: center;
   justify-content: center;
 }
@@ -14,17 +15,26 @@
 #todo-form input {
   border-radius: 5px;
   border: 0px;
+  text-align: center;
+  font-size: 15px;
+  width: 250px;
+  height: 25px;
 }
+
 
 #todo-list {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin: 8px;
+  margin: 15px;
 }
 
 #todo-list span {
   padding: 30px;
-  font-size: 20px;
+  font-size: 25px;
+}
+
+#todo-list li{
+  margin-top: 5px;
 }
