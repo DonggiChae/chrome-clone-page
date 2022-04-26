@@ -13,6 +13,7 @@
 
 #quote span:first-child {
   font-size: 18px;
+
 }
 
 #quote span:last-child {
@@ -20,6 +21,9 @@
 }
 
 #weather {
+
   font-size: 18px;
   font-weight: bolder;
+
+
 }
